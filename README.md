@@ -9,7 +9,7 @@ If an exercise is ~~stroke out~~ a solution is not available yet.
 ## Lesson 1:
 1. [Hello World](01_getting_started/helloworld.py)
 2. [Strings](01_getting_started/strings.py)
-3. ~~String Methods~~
+3. [String Methods](01_getting_started/string_methods.py)
 
 ## Lesson 2:
 1. ~~Objects and classes~~
