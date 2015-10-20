@@ -13,4 +13,4 @@ If an exercise is ~~stroke out~~ a solution is not available yet.
 
 #### Lesson 2:
 1. ~~Objects and classes~~
-2. ~~Even more objects! - deeper into classes~~
+2. [Even more objects! - deeper into classes](02_objects_and_classes/more_objects.py)
