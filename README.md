@@ -6,11 +6,11 @@ The exercises could be found [here](http://fsr.github.io/python-lessons/).
 If an exercise is ~~stroke out~~ a solution is not available yet.
 
 # Solutions:
-## Lesson 1:
+#### Lesson 1:
 1. [Hello World](01_getting_started/helloworld.py)
 2. [Strings](01_getting_started/strings.py)
 3. [String Methods](01_getting_started/string_methods.py)
 
-## Lesson 2:
+#### Lesson 2:
 1. ~~Objects and classes~~
 2. ~~Even more objects! - deeper into classes~~
