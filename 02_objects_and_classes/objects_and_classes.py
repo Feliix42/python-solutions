@@ -5,17 +5,17 @@ This task was meant to be done in the interpreter.
 '''
 
 
-class A():
+class A:
     # an empty class
     pass
 
 
-class B():
+class B:
     def my_method(self):
         return 42
 
 
-class C():
+class C:
     gender = 'male'
 
     def __init__(self, name, age):
@@ -23,7 +23,7 @@ class C():
         self.age = age
 
 
-class D():
+class D:
     def __init__(self, number):
         self.value = number
 
