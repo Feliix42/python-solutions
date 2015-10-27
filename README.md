@@ -14,3 +14,8 @@ If an exercise is ~~stroke out~~ a solution is not available yet.
 #### Lesson 2:
 1. [Objects and classes](02_objects_and_classes/objects_and_classes.py)
 2. [Even more objects! - deeper into classes](02_objects_and_classes/more_objects.py)
+
+#### Lesson 3:
+1. ~~Get me the file! - file(handle(r)s)~~
+2. [Calculator](03_builtin/calculator.py)
+3. ~~Text Statistics~~
