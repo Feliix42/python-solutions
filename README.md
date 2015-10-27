@@ -2,7 +2,7 @@
 
 In this the repository where you can look up your solutions of the python course.
 
-The exercises could be found [here](http://fsr.github.io/python-lessons/).  
+The exercises can be found [here](http://fsr.github.io/python-lessons/).  
 If an exercise is ~~stroke out~~ a solution is not available yet.
 
 # Solutions:
@@ -16,6 +16,6 @@ If an exercise is ~~stroke out~~ a solution is not available yet.
 2. [Even more objects! - deeper into classes](02_objects_and_classes/more_objects.py)
 
 #### Lesson 3:
-1. ~~Get me the file! - file(handle(r)s)~~
-2. [Calculator](03_builtin/calculator.py)
-3. ~~Text Statistics~~
+1. [Get me the file! - file(handle(r)s)](03_builtins/file.py)
+2. [Calculator](03_builtins/calculator.py)
+3. [Text Statistics](03_builtins/text_stats.py)
