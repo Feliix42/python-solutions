@@ -19,3 +19,8 @@ If an exercise is ~~stroke out~~ a solution is not available yet.
 1. [Get me the file! - file(handle(r)s)](03_builtins/file.py)
 2. [Calculator](03_builtins/calculator.py)
 3. [Text Statistics](03_builtins/text_stats.py)
+
+#### Lesson 4:
+1. [Important importing - path path path](04_modules_packages_pip/importing)
+2. [Modules and Packages](04_modules_packages_pip/modules)
+3. [Be persistent - save your data!](04_modules_packages_pip/persistence)
