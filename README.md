@@ -24,3 +24,6 @@ If an exercise is ~~stroke out~~ a solution is not available yet.
 1. [Important importing - path path path](04_modules_packages_pip/importing)
 2. [Modules and Packages](04_modules_packages_pip/modules)
 3. [Be persistent - save your data!](04_modules_packages_pip/persistence)
+
+#### Lesson 5:
+1. [It is beautiful - Decorator](05_decorators)
