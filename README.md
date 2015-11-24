@@ -27,3 +27,6 @@ If an exercise is ~~stroke out~~ a solution is not available yet.
 
 #### Lesson 5:
 1. [It is beautiful - Decorator](05_decorators)
+
+#### Lesson 6:
+1. [Easy to comprehend - Comprehensions](06_comprehesions)
