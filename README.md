@@ -30,3 +30,6 @@ If an exercise is ~~stroke out~~ a solution is not available yet.
 
 #### Lesson 6:
 1. [Easy to comprehend - Comprehensions](06_comprehesions)
+
+#### Lesson 7:
+1. [Functions as Values](07_functions_advanced/funcsAsVals.py)
