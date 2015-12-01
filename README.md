@@ -33,3 +33,6 @@ If an exercise is ~~stroke out~~ a solution is not available yet.
 
 #### Lesson 7:
 1. [Functions as Values](07_functions_advanced/funcsAsVals.py)
+
+#### Lesson 8:
+1. [Hand off the work - subprocess](08_process/subprocess_exercise.py)
