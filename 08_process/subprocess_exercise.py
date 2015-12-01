@@ -2,6 +2,7 @@
 
 import platform
 import subprocess
+from time import sleep
 
 # Step 1
 windows = True if platform.system() == 'Windows' else False
@@ -17,29 +18,27 @@ else:
     windows = False
 '''
 
-# Step 2
+def main():
+    # Step 2
+    command = ''
 
-command = ''
+    if windows:
+        command = 'dir'
+    else:
+        command = ['ls', '-lha']
+    '''
+    Again this could be done in a single line:
+    command = 'dir' if windows else ['ls', '-lha']
+    '''
 
-if windows:
-    command = 'dir'
-else:
-    command = ['ls', '-lha']
+    subprocess.run(command)
 
-'''
-Again this could be done in a single line:
+    # Step 3
+    sleep(5)
+    clear = 'cls' if windows else 'clear'
 
-command = 'dir' if windows else ['ls', '-lha']
-'''
+    subprocess.run(clear)
 
-subprocess.run(command)
 
-# Step 3
-
-from time import sleep
-
-sleep(5)
-
-clear = 'cls' if windows else 'clear'
-
-subprocess.run(clear)
+if __name__ == '__main__':
+    main()
