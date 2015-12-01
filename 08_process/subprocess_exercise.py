@@ -18,6 +18,7 @@ else:
     windows = False
 '''
 
+
 def main():
     # Step 2
     command = ''
