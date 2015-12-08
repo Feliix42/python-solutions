@@ -37,3 +37,8 @@ If an exercise is ~~stroke out~~ a solution is not available yet.
 #### Lesson 8:
 1. [Hand off the work - subprocess](08_process/subprocess_exercise.py)
 2. [Your own grep - using subprocess](08_process/my_grep.py)
+
+#### Lesson 9:
+1. ~~[On the client side of the internet](09_web_client/webclient.py)~~
+2. [Dad? What's for breakfast?](09_web_client/meals.py)
+
