@@ -42,3 +42,5 @@ If an exercise is ~~stroke out~~ a solution is not available yet.
 1. ~~[On the client side of the internet](09_web_client/webclient.py)~~
 2. [Dad? What's for breakfast?](09_web_client/meals.py)
 
+#### Lesson 10:
+1. [Dear regex, Merry Christmas!](10regex/regex_christmas.py)
