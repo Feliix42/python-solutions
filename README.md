@@ -39,7 +39,7 @@ If an exercise is ~~stroke out~~ a solution is not available yet.
 2. [Your own grep - using subprocess](08_process/my_grep.py)
 
 #### Lesson 9:
-1. ~~[On the client side of the internet](09_web_client/webclient.py)~~
+1. ~~On the client side of the internet~~
 2. [Dad? What's for breakfast?](09_web_client/meals.py)
 
 #### Lesson 10:
