@@ -44,3 +44,6 @@ If an exercise is ~~stroke out~~ a solution is not available yet.
 
 #### Lesson 10:
 1. [Dear regex, Merry Christmas!](10regex/regex_christmas.py)
+  
+## Special:
+1. [SZ-Online crawler](special/sz-crawler)
