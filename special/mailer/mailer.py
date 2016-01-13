@@ -35,7 +35,7 @@ def main():
         with smtplib.SMTP(host=server, port=port) as smtpObj:
             # make the connection secure
             smtpObj.starttls()
-            
+
             smtpObj.login('user', 'pass')
             smtpObj.send_message(message)
     except smtplib.SMTPException as error:
